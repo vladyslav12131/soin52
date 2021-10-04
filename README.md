@@ -1,5 +1,3 @@
-# soin52
-<!DOCTYPE html>
 <html>
     <head>
        <title>JavaScript</title>
