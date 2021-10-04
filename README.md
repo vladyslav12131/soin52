@@ -1,5 +1,4 @@
-<html>
-    <head>
+  <head>
        <title>JavaScript</title>
     </head>
     <body>       
@@ -20,4 +19,3 @@
            document.getElementById("list").innerHTML+="<li>"+text+"</li>"
          } 
     </script>
-</html> 
